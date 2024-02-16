@@ -5,6 +5,8 @@
  * This file serves as an example for Doxygen documentation.
  */
 
+//Hello world
+
 #include <iostream>
 
 /**
