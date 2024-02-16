@@ -12,7 +12,7 @@
 *
 * @section DESCRIPTION
 * 
-* The time class represents a moment of time. 
+* The time class represents a moment of time. It has a constructor 
 */ 
 
 class Time {
